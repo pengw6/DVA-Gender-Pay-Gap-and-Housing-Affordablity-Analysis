@@ -8,13 +8,13 @@ Description:
 -Programming Language: Python
 	oPackages required: pandas, PySci, Plearn, Pmdarima,matplotlib, seaborn, and numpy
 	oData source: 
-		Income by Gender:
-		https://data.census.gov/table?q=B20002&g=0100000US$8600000
-		Real Estate:
-		https://redfin-public-data.s3.us-west-2.amazonaws.com/redfin_covid19/weekly_housing_market_data_most_recent.tsv000
+		Income by Gender:
+		https://data.census.gov/table?q=B20002&g=0100000US$8600000
+		Real Estate:
+		https://redfin-public-data.s3.us-west-2.amazonaws.com/redfin_covid19/weekly_housing_market_data_most_recent.tsv000
 -Download dataset files from the Data folder
 -Video of installation and execution:
-	ohttps://youtu.be/sJGX3ILcZL8
+	o https://youtu.be/sJGX3ILcZL8
 
 Installation:
 
@@ -31,4 +31,5 @@ Execution:
 	3.Tableau dashboard is built based on step 4 result. Details of the dashboard can be found in the Dashboard folder.
 	4.Explore Tableau dashboard online:
 		oClick the provided url to visit the dashboard and interact with the dashboard features online.
+			https://public.tableau.com/app/profile/wei.peng8662/viz/Dashboard_16694220545890/Dashboard1?publish=yes
 		oTo bette display the dashboard and explore all features conveniently, users are recommended to use fullscreen mode in Chrome.
