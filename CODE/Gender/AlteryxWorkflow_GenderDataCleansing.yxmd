@@ -1,0 +1,1304 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\hanna\Downloads\merge_total_2.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>merge_total_2.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_1" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="state" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="county" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2012" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2013" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2014" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2015" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2016" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2017" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2018" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2019" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2020" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2021" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2022" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2023" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2024" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+            <Field name="2025" size="254" source="File: C:\Users\hanna\Downloads\merge_total_2.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="138" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>male_w_5_year_prediction (1).csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="GEO_ID" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="County" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2010" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2011" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2012" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2013" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2014" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2015" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2016" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2017" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2018" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2019" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2020" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2021" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2022" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2023" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2024" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2025" size="254" source="File: C:\Users\hanna\Downloads\male_w_5_year_prediction (1).csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="138" y="558" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>female_w_5_year_prediction (1).csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="GEO_ID" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="County" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2010" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2011" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2012" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2013" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2014" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2015" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2016" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2017" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2018" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2019" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2020" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2021" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2022" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2023" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2024" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2025" size="254" source="File: C:\Users\hanna\Downloads\female_w_5_year_prediction (1).csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="246" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;male&quot;" field="Gender" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Gender = "male"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="258" y="558" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;female&quot;" field="Gender" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Gender = "female"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="606" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="county" />
+            <Field field="state" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="County" />
+            <Field field="State" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_GEO_ID" selected="False" input="Right_" />
+                <SelectField field="Right_County" selected="False" rename="Right_County" input="Right_" />
+                <SelectField field="Right_2012" selected="True" rename="Gender_2012" input="Right_" />
+                <SelectField field="Right_2013" selected="True" rename="Gender_2013" input="Right_" />
+                <SelectField field="Right_2014" selected="True" rename="Gender_2014" input="Right_" />
+                <SelectField field="Right_2015" selected="True" rename="Gender_2015" input="Right_" />
+                <SelectField field="Right_2016" selected="True" rename="Gender_2016" input="Right_" />
+                <SelectField field="Right_2017" selected="True" rename="Gender_2017" input="Right_" />
+                <SelectField field="Right_2018" selected="True" rename="Gender_2018" input="Right_" />
+                <SelectField field="Right_2019" selected="True" rename="Gender_2019" input="Right_" />
+                <SelectField field="Right_2020" selected="True" rename="Gender_2020" input="Right_" />
+                <SelectField field="Right_2021" selected="True" rename="Gender_2021" input="Right_" />
+                <SelectField field="Right_2022" selected="True" rename="Gender_2022" input="Right_" />
+                <SelectField field="Right_2023" selected="True" rename="Gender_2023" input="Right_" />
+                <SelectField field="Right_State" selected="False" rename="Gender_State" input="Right_" />
+                <SelectField field="Right_2024" selected="True" rename="Gender_2024" input="Right_" />
+                <SelectField field="Right_2025" selected="True" rename="Gender_2025" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="138" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\hanna\Downloads\uscities.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>uscities.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="city" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="city_ascii" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="state_id" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="state_name" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="county_fips" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="county_name" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="lat" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="lng" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="population" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="density" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="source" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="military" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="incorporated" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="timezone" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="ranking" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="zips" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+            <Field name="id" size="254" source="File: C:\Users\hanna\Downloads\uscities.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="354" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>State</FieldFind>
+          <FieldSearch>state_name</FieldSearch>
+          <ReplaceFoundField>state_id</ReplaceFoundField>
+          <FindMode>FindWhole</FindMode>
+          <NoCase value="False" />
+          <MatchWholeWord value="True" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields>
+            <Field field="state_id" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="450" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="GEO_ID" selected="True" />
+            <SelectField field="County" selected="True" />
+            <SelectField field="State" selected="False" />
+            <SelectField field="2010" selected="False" />
+            <SelectField field="2011" selected="False" />
+            <SelectField field="2012" selected="True" type="Double" size="8" />
+            <SelectField field="2013" selected="True" type="Double" size="8" />
+            <SelectField field="2014" selected="True" type="Double" size="8" />
+            <SelectField field="2015" selected="True" type="Double" size="8" />
+            <SelectField field="2016" selected="True" type="Double" size="8" />
+            <SelectField field="2017" selected="True" type="Double" size="8" />
+            <SelectField field="2018" selected="True" type="Double" size="8" />
+            <SelectField field="2019" selected="True" type="Double" size="8" />
+            <SelectField field="2020" selected="True" type="Double" size="8" />
+            <SelectField field="2021" selected="True" type="Double" size="8" />
+            <SelectField field="2022" selected="True" type="Double" size="8" />
+            <SelectField field="2023" selected="True" type="Double" size="8" />
+            <SelectField field="state_id" selected="True" rename="State" />
+            <SelectField field="2024" selected="True" type="Double" size="8" />
+            <SelectField field="2025" selected="True" type="Double" size="8" />
+            <SelectField field="Gender" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="366" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>State</FieldFind>
+          <FieldSearch>state_name</FieldSearch>
+          <ReplaceFoundField>state_id</ReplaceFoundField>
+          <FindMode>FindWhole</FindMode>
+          <NoCase value="False" />
+          <MatchWholeWord value="True" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields>
+            <Field field="state_id" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="474" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="GEO_ID" selected="True" />
+            <SelectField field="County" selected="True" />
+            <SelectField field="State" selected="False" />
+            <SelectField field="2010" selected="False" />
+            <SelectField field="2011" selected="False" />
+            <SelectField field="2012" selected="True" type="Double" size="8" />
+            <SelectField field="2013" selected="True" type="Double" size="8" />
+            <SelectField field="2014" selected="True" type="Double" size="8" />
+            <SelectField field="2015" selected="True" type="Double" size="8" />
+            <SelectField field="2016" selected="True" type="Double" size="8" />
+            <SelectField field="2017" selected="True" type="Double" size="8" />
+            <SelectField field="2018" selected="True" type="Double" size="8" />
+            <SelectField field="2019" selected="True" type="Double" size="8" />
+            <SelectField field="2020" selected="True" type="Double" size="8" />
+            <SelectField field="2021" selected="True" type="Double" size="8" />
+            <SelectField field="2022" selected="True" type="Double" size="8" />
+            <SelectField field="2023" selected="True" type="Double" size="8" />
+            <SelectField field="state_id" selected="True" rename="State" />
+            <SelectField field="2024" selected="True" type="Double" size="8" />
+            <SelectField field="2025" selected="True" type="Double" size="8" />
+            <SelectField field="Gender" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="438" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Field_1" selected="False" />
+            <SelectField field="2012" selected="True" type="Double" size="8" />
+            <SelectField field="2013" selected="True" type="Double" size="8" />
+            <SelectField field="2014" selected="True" type="Double" size="8" />
+            <SelectField field="2015" selected="True" type="Double" size="8" />
+            <SelectField field="2016" selected="True" type="Double" size="8" />
+            <SelectField field="2017" selected="True" type="Double" size="8" />
+            <SelectField field="2018" selected="True" type="Double" size="8" />
+            <SelectField field="2019" selected="True" type="Double" size="8" />
+            <SelectField field="2020" selected="True" type="Double" size="8" />
+            <SelectField field="2021" selected="True" type="Double" size="8" />
+            <SelectField field="2022" selected="True" type="Double" size="8" />
+            <SelectField field="2023" selected="True" type="Double" size="8" />
+            <SelectField field="2024" selected="True" type="Double" size="8" />
+            <SelectField field="2025" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="690" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[2012]/[Gender_2012]" field="2012_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2013]/[Gender_2013]" field="2013_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2014]/[Gender_2014]" field="2014_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2015]/[Gender_2015]" field="2015_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2016]/[Gender_2016]" field="2016_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2017]/[Gender_2017]" field="2017_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2018]/[Gender_2018]" field="2018_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2019]/[Gender_2019]" field="2019_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2020]/[Gender_2020]" field="2020_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2021]/[Gender_2021]" field="2021_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2022]/[Gender_2022]" field="2022_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2023]/[Gender_2023]" field="2023_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2024]/[Gender_2024]" field="2024_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2025]/[Gender_2025]" field="2025_Ratio" size="8" type="Double" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>2012_Ratio = [2012]/[Gender_2012]
+2013_Ratio = [2013]/[Gender_2013]
+2014_Ratio =...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="786" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="2012" selected="False" />
+            <SelectField field="2013" selected="False" />
+            <SelectField field="2014" selected="False" />
+            <SelectField field="2015" selected="False" />
+            <SelectField field="2016" selected="False" />
+            <SelectField field="2017" selected="False" />
+            <SelectField field="2018" selected="False" />
+            <SelectField field="2019" selected="False" />
+            <SelectField field="2020" selected="False" />
+            <SelectField field="2021" selected="False" />
+            <SelectField field="2022" selected="False" />
+            <SelectField field="2023" selected="False" />
+            <SelectField field="2024" selected="False" />
+            <SelectField field="2025" selected="False" />
+            <SelectField field="Gender_2012" selected="False" />
+            <SelectField field="Gender_2013" selected="False" />
+            <SelectField field="Gender_2014" selected="False" />
+            <SelectField field="Gender_2015" selected="False" />
+            <SelectField field="Gender_2016" selected="False" />
+            <SelectField field="Gender_2017" selected="False" />
+            <SelectField field="Gender_2018" selected="False" />
+            <SelectField field="Gender_2019" selected="False" />
+            <SelectField field="Gender_2020" selected="False" />
+            <SelectField field="Gender_2021" selected="False" />
+            <SelectField field="Gender_2022" selected="False" />
+            <SelectField field="Gender_2023" selected="False" />
+            <SelectField field="Gender_2024" selected="False" />
+            <SelectField field="Gender_2025" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="918" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\hanna\OneDrive\Documents\Hanna\cse6242 project\Male_final.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Male_final.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="906" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\hanna\OneDrive\Documents\Hanna\cse6242 project\Male_final_full.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Male_final_full.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="138" y="738" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>total_w_5_year_prediction (1).csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="GEO_ID" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="County" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2010" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2011" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2012" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2013" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2014" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2015" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2016" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2017" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2018" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2019" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2020" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2021" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2022" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2023" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2024" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+            <Field name="2025" size="254" source="File: C:\Users\hanna\Downloads\total_w_5_year_prediction (1).csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="618" y="570" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="county" />
+            <Field field="state" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="County" />
+            <Field field="State" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_GEO_ID" selected="False" input="Right_" />
+                <SelectField field="Right_County" selected="False" rename="Right_County" input="Right_" />
+                <SelectField field="Right_2012" selected="True" rename="Gender_2012" input="Right_" />
+                <SelectField field="Right_2013" selected="True" rename="Gender_2013" input="Right_" />
+                <SelectField field="Right_2014" selected="True" rename="Gender_2014" input="Right_" />
+                <SelectField field="Right_2015" selected="True" rename="Gender_2015" input="Right_" />
+                <SelectField field="Right_2016" selected="True" rename="Gender_2016" input="Right_" />
+                <SelectField field="Right_2017" selected="True" rename="Gender_2017" input="Right_" />
+                <SelectField field="Right_2018" selected="True" rename="Gender_2018" input="Right_" />
+                <SelectField field="Right_2019" selected="True" rename="Gender_2019" input="Right_" />
+                <SelectField field="Right_2020" selected="True" rename="Gender_2020" input="Right_" />
+                <SelectField field="Right_2021" selected="True" rename="Gender_2021" input="Right_" />
+                <SelectField field="Right_2022" selected="True" rename="Gender_2022" input="Right_" />
+                <SelectField field="Right_2023" selected="True" rename="Gender_2023" input="Right_" />
+                <SelectField field="Right_State" selected="False" rename="Gender_State" input="Right_" />
+                <SelectField field="Right_2024" selected="True" rename="Gender_2024" input="Right_" />
+                <SelectField field="Right_2025" selected="True" rename="Gender_2025" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="822" y="570" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="2012" selected="False" />
+            <SelectField field="2013" selected="False" />
+            <SelectField field="2014" selected="False" />
+            <SelectField field="2015" selected="False" />
+            <SelectField field="2016" selected="False" />
+            <SelectField field="2017" selected="False" />
+            <SelectField field="2018" selected="False" />
+            <SelectField field="2019" selected="False" />
+            <SelectField field="2020" selected="False" />
+            <SelectField field="2021" selected="False" />
+            <SelectField field="2022" selected="False" />
+            <SelectField field="2023" selected="False" />
+            <SelectField field="2024" selected="False" />
+            <SelectField field="2025" selected="False" />
+            <SelectField field="Gender_2012" selected="False" />
+            <SelectField field="Gender_2013" selected="False" />
+            <SelectField field="Gender_2014" selected="False" />
+            <SelectField field="Gender_2015" selected="False" />
+            <SelectField field="Gender_2016" selected="False" />
+            <SelectField field="Gender_2017" selected="False" />
+            <SelectField field="Gender_2018" selected="False" />
+            <SelectField field="Gender_2019" selected="False" />
+            <SelectField field="Gender_2020" selected="False" />
+            <SelectField field="Gender_2021" selected="False" />
+            <SelectField field="Gender_2022" selected="False" />
+            <SelectField field="Gender_2023" selected="False" />
+            <SelectField field="Gender_2024" selected="False" />
+            <SelectField field="Gender_2025" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="918" y="570" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\hanna\OneDrive\Documents\Hanna\cse6242 project\Female_final.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Female_final.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="918" y="690" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\hanna\OneDrive\Documents\Hanna\cse6242 project\Female_final_full.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Female_final_full.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="258" y="726" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;total&quot;" field="Gender" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Gender = "total"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="366" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>State</FieldFind>
+          <FieldSearch>state_name</FieldSearch>
+          <ReplaceFoundField>state_id</ReplaceFoundField>
+          <FindMode>FindWhole</FindMode>
+          <NoCase value="False" />
+          <MatchWholeWord value="True" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields>
+            <Field field="state_id" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="474" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="GEO_ID" selected="True" />
+            <SelectField field="County" selected="True" />
+            <SelectField field="State" selected="False" />
+            <SelectField field="2010" selected="False" />
+            <SelectField field="2011" selected="False" />
+            <SelectField field="2012" selected="True" type="Double" size="8" />
+            <SelectField field="2013" selected="True" type="Double" size="8" />
+            <SelectField field="2014" selected="True" type="Double" size="8" />
+            <SelectField field="2015" selected="True" type="Double" size="8" />
+            <SelectField field="2016" selected="True" type="Double" size="8" />
+            <SelectField field="2017" selected="True" type="Double" size="8" />
+            <SelectField field="2018" selected="True" type="Double" size="8" />
+            <SelectField field="2019" selected="True" type="Double" size="8" />
+            <SelectField field="2020" selected="True" type="Double" size="8" />
+            <SelectField field="2021" selected="True" type="Double" size="8" />
+            <SelectField field="2022" selected="True" type="Double" size="8" />
+            <SelectField field="2023" selected="True" type="Double" size="8" />
+            <SelectField field="state_id" selected="True" rename="State" />
+            <SelectField field="2024" selected="True" type="Double" size="8" />
+            <SelectField field="2025" selected="True" type="Double" size="8" />
+            <SelectField field="Gender" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="618" y="738" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="county" />
+            <Field field="state" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="County" />
+            <Field field="State" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_GEO_ID" selected="False" input="Right_" />
+                <SelectField field="Right_County" selected="False" rename="Right_County" input="Right_" />
+                <SelectField field="Right_2012" selected="True" rename="Gender_2012" input="Right_" />
+                <SelectField field="Right_2013" selected="True" rename="Gender_2013" input="Right_" />
+                <SelectField field="Right_2014" selected="True" rename="Gender_2014" input="Right_" />
+                <SelectField field="Right_2015" selected="True" rename="Gender_2015" input="Right_" />
+                <SelectField field="Right_2016" selected="True" rename="Gender_2016" input="Right_" />
+                <SelectField field="Right_2017" selected="True" rename="Gender_2017" input="Right_" />
+                <SelectField field="Right_2018" selected="True" rename="Gender_2018" input="Right_" />
+                <SelectField field="Right_2019" selected="True" rename="Gender_2019" input="Right_" />
+                <SelectField field="Right_2020" selected="True" rename="Gender_2020" input="Right_" />
+                <SelectField field="Right_2021" selected="True" rename="Gender_2021" input="Right_" />
+                <SelectField field="Right_2022" selected="True" rename="Gender_2022" input="Right_" />
+                <SelectField field="Right_2023" selected="True" rename="Gender_2023" input="Right_" />
+                <SelectField field="Right_State" selected="False" rename="Gender_State" input="Right_" />
+                <SelectField field="Right_2024" selected="True" rename="Gender_2024" input="Right_" />
+                <SelectField field="Right_2025" selected="True" rename="Gender_2025" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="822" y="738" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="2012" selected="False" />
+            <SelectField field="2013" selected="False" />
+            <SelectField field="2014" selected="False" />
+            <SelectField field="2015" selected="False" />
+            <SelectField field="2016" selected="False" />
+            <SelectField field="2017" selected="False" />
+            <SelectField field="2018" selected="False" />
+            <SelectField field="2019" selected="False" />
+            <SelectField field="2020" selected="False" />
+            <SelectField field="2021" selected="False" />
+            <SelectField field="2022" selected="False" />
+            <SelectField field="2023" selected="False" />
+            <SelectField field="2024" selected="False" />
+            <SelectField field="2025" selected="False" />
+            <SelectField field="Gender_2012" selected="False" />
+            <SelectField field="Gender_2013" selected="False" />
+            <SelectField field="Gender_2014" selected="False" />
+            <SelectField field="Gender_2015" selected="False" />
+            <SelectField field="Gender_2016" selected="False" />
+            <SelectField field="Gender_2017" selected="False" />
+            <SelectField field="Gender_2018" selected="False" />
+            <SelectField field="Gender_2019" selected="False" />
+            <SelectField field="Gender_2020" selected="False" />
+            <SelectField field="Gender_2021" selected="False" />
+            <SelectField field="Gender_2022" selected="False" />
+            <SelectField field="Gender_2023" selected="False" />
+            <SelectField field="Gender_2024" selected="False" />
+            <SelectField field="Gender_2025" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="918" y="738" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\hanna\OneDrive\Documents\Hanna\cse6242 project\Total_final.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Total_final.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="918" y="846" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\hanna\OneDrive\Documents\Hanna\cse6242 project\Total_final_full.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Total_final_full.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="726" y="570" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[2012]/[Gender_2012]" field="2012_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2013]/[Gender_2013]" field="2013_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2014]/[Gender_2014]" field="2014_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2015]/[Gender_2015]" field="2015_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2016]/[Gender_2016]" field="2016_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2017]/[Gender_2017]" field="2017_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2018]/[Gender_2018]" field="2018_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2019]/[Gender_2019]" field="2019_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2020]/[Gender_2020]" field="2020_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2021]/[Gender_2021]" field="2021_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2022]/[Gender_2022]" field="2022_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2023]/[Gender_2023]" field="2023_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2024]/[Gender_2024]" field="2024_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2025]/[Gender_2025]" field="2025_Ratio" size="8" type="Double" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>2012_Ratio = [2012]/[Gender_2012]
+2013_Ratio = [2013]/[Gender_2013]
+2014_Ratio =...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="726" y="738" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[2012]/[Gender_2012]" field="2012_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2013]/[Gender_2013]" field="2013_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2014]/[Gender_2014]" field="2014_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2015]/[Gender_2015]" field="2015_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2016]/[Gender_2016]" field="2016_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2017]/[Gender_2017]" field="2017_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2018]/[Gender_2018]" field="2018_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2019]/[Gender_2019]" field="2019_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2020]/[Gender_2020]" field="2020_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2021]/[Gender_2021]" field="2021_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2022]/[Gender_2022]" field="2022_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2023]/[Gender_2023]" field="2023_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2024]/[Gender_2024]" field="2024_Ratio" size="8" type="Double" />
+            <FormulaField expression="[2025]/[Gender_2025]" field="2025_Ratio" size="8" type="Double" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>2012_Ratio = [2012]/[Gender_2012]
+2013_Ratio = [2013]/[Gender_2013]
+2014_Ratio =...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="11" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="11" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="13" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="13" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Join" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="28" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="28" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="8" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="8" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="22" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="22" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="30" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="30" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Join" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>final join</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="2705cc00-e640-4b54-b879-f716132d0db5" />
+      <Telemetry>
+        <PreviousWorkflowId value="8b6c2736-45cf-4e27-85f7-75e249bab939" />
+        <OriginWorkflowId value="8b6c2736-45cf-4e27-85f7-75e249bab939" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
